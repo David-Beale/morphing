@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/morphing/static/css/main.67c72f36.chunk.css",
+    "main.js": "/morphing/static/js/main.1193f949.chunk.js",
+    "main.js.map": "/morphing/static/js/main.1193f949.chunk.js.map",
+    "runtime-main.js": "/morphing/static/js/runtime-main.0c069efa.js",
+    "runtime-main.js.map": "/morphing/static/js/runtime-main.0c069efa.js.map",
+    "static/js/2.c14e238d.chunk.js": "/morphing/static/js/2.c14e238d.chunk.js",
+    "static/js/2.c14e238d.chunk.js.map": "/morphing/static/js/2.c14e238d.chunk.js.map",
+    "static/js/3.1efe34d7.chunk.js": "/morphing/static/js/3.1efe34d7.chunk.js",
+    "static/js/3.1efe34d7.chunk.js.map": "/morphing/static/js/3.1efe34d7.chunk.js.map",
+    "static/js/4.ed033490.chunk.js": "/morphing/static/js/4.ed033490.chunk.js",
+    "static/js/4.ed033490.chunk.js.map": "/morphing/static/js/4.ed033490.chunk.js.map",
+    "index.html": "/morphing/index.html",
+    "static/css/main.67c72f36.chunk.css.map": "/morphing/static/css/main.67c72f36.chunk.css.map",
+    "static/js/2.c14e238d.chunk.js.LICENSE.txt": "/morphing/static/js/2.c14e238d.chunk.js.LICENSE.txt",
+    "static/media/coke.5ce0700f.glb": "/morphing/static/media/coke.5ce0700f.glb",
+    "static/media/cone.d99113c4.glb": "/morphing/static/media/cone.d99113c4.glb",
+    "static/media/dino.fdeaa623.glb": "/morphing/static/media/dino.fdeaa623.glb",
+    "static/media/dog.dc02d258.glb": "/morphing/static/media/dog.dc02d258.glb",
+    "static/media/flower.0cd08953.glb": "/morphing/static/media/flower.0cd08953.glb",
+    "static/media/grogu.bb7840e1.glb": "/morphing/static/media/grogu.bb7840e1.glb",
+    "static/media/helmet.e1611e1a.glb": "/morphing/static/media/helmet.e1611e1a.glb",
+    "static/media/jet.a5dd25aa.glb": "/morphing/static/media/jet.a5dd25aa.glb",
+    "static/media/pc.48dbf2bf.glb": "/morphing/static/media/pc.48dbf2bf.glb",
+    "static/media/reptile.3f2d6967.glb": "/morphing/static/media/reptile.3f2d6967.glb",
+    "static/media/tie.82df7b2b.glb": "/morphing/static/media/tie.82df7b2b.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c069efa.js",
+    "static/js/2.c14e238d.chunk.js",
+    "static/css/main.67c72f36.chunk.css",
+    "static/js/main.1193f949.chunk.js"
+  ]
+}
