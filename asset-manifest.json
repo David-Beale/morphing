@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/morphing/static/css/main.c425265c.chunk.css",
-    "main.js": "/morphing/static/js/main.f416c982.chunk.js",
-    "main.js.map": "/morphing/static/js/main.f416c982.chunk.js.map",
-    "runtime-main.js": "/morphing/static/js/runtime-main.fda1afc4.js",
-    "runtime-main.js.map": "/morphing/static/js/runtime-main.fda1afc4.js.map",
+    "main.js": "/morphing/static/js/main.c65a37b4.chunk.js",
+    "main.js.map": "/morphing/static/js/main.c65a37b4.chunk.js.map",
+    "runtime-main.js": "/morphing/static/js/runtime-main.55f4531f.js",
+    "runtime-main.js.map": "/morphing/static/js/runtime-main.55f4531f.js.map",
     "static/js/2.8dd91951.chunk.js": "/morphing/static/js/2.8dd91951.chunk.js",
     "static/js/2.8dd91951.chunk.js.map": "/morphing/static/js/2.8dd91951.chunk.js.map",
-    "static/js/3.7e24efb1.chunk.js": "/morphing/static/js/3.7e24efb1.chunk.js",
-    "static/js/3.7e24efb1.chunk.js.map": "/morphing/static/js/3.7e24efb1.chunk.js.map",
+    "static/js/3.ac5da942.chunk.js": "/morphing/static/js/3.ac5da942.chunk.js",
+    "static/js/3.ac5da942.chunk.js.map": "/morphing/static/js/3.ac5da942.chunk.js.map",
     "static/js/4.e90ebe58.chunk.js": "/morphing/static/js/4.e90ebe58.chunk.js",
     "static/js/4.e90ebe58.chunk.js.map": "/morphing/static/js/4.e90ebe58.chunk.js.map",
     "static/js/5.91e02a18.chunk.js": "/morphing/static/js/5.91e02a18.chunk.js",
@@ -130,9 +130,9 @@
     "static/js/2.8dd91951.chunk.js.LICENSE.txt": "/morphing/static/js/2.8dd91951.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fda1afc4.js",
+    "static/js/runtime-main.55f4531f.js",
     "static/js/2.8dd91951.chunk.js",
     "static/css/main.c425265c.chunk.css",
-    "static/js/main.f416c982.chunk.js"
+    "static/js/main.c65a37b4.chunk.js"
   ]
 }
