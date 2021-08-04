@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/morphing/static/css/main.c425265c.chunk.css",
-    "main.js": "/morphing/static/js/main.c65a37b4.chunk.js",
-    "main.js.map": "/morphing/static/js/main.c65a37b4.chunk.js.map",
+    "main.js": "/morphing/static/js/main.29bc8885.chunk.js",
+    "main.js.map": "/morphing/static/js/main.29bc8885.chunk.js.map",
     "runtime-main.js": "/morphing/static/js/runtime-main.55f4531f.js",
     "runtime-main.js.map": "/morphing/static/js/runtime-main.55f4531f.js.map",
     "static/js/2.8dd91951.chunk.js": "/morphing/static/js/2.8dd91951.chunk.js",
@@ -133,6 +133,6 @@
     "static/js/runtime-main.55f4531f.js",
     "static/js/2.8dd91951.chunk.js",
     "static/css/main.c425265c.chunk.css",
-    "static/js/main.c65a37b4.chunk.js"
+    "static/js/main.29bc8885.chunk.js"
   ]
 }
